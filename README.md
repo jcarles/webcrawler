@@ -1,5 +1,5 @@
 # webcrawler
-extract ufo sightseeings from nuforc.org database with a webcrawler process
+extreu informació sobre avistaments de suposats OVNIS als USA de la base de dades de la web nuforc.org
 ## Descripció
 
 Aquesta pràctica s'ha realitzat sota el context de l'assignatura Tipologia i cicle de vida de les dades, del Màster en Ciència de Dades de la UOC. S'apliquen tècniques de web scraping per extreure dades mitjançant Python de la web nuforc.org i generar un dataset.
